@@ -1,0 +1,4 @@
+%YAML:1.0
+# Example receiver config.
+host: "10.196.203.138"
+port: 7666
